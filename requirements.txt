@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+pydub
+openai-whisper
+sentence-transformers
+faiss-cpu
+python-dotenv
+requests

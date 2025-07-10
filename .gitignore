@@ -1,0 +1,9 @@
+model.pth
+*.wav
+*.mp3
+*.ark
+*.npz
+output.wav
+response.wav
+venv/
+__pycache__/
